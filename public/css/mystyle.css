@@ -446,6 +446,11 @@ ul li a {
   background-color: #f5f5f5;
 }
 
+.operation__steps li p {
+  font-weight: 500;
+  margin-left: 20px;
+}
+
 .operation__steps {
   display: flex;
   list-style-type: none;
@@ -571,6 +576,11 @@ ul li a {
   align-items: center;
 }
 
+.arrow {
+  position: absolute;
+  left: 20px;
+}
+
 .menu__title {
   font-family: Shrikhand, sans-serif;
   display: flex;
@@ -669,10 +679,5 @@ ul li a {
   display: flex;
   justify-content: center;
 }
-.arrow {
-  position: absolute;
-  left: 20px;
-}
-
 
 /*# sourceMappingURL=mystyle.css.map */
