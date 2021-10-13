@@ -90,6 +90,7 @@ footer {
   background-color: #353535;
   padding: 25px;
   color: white;
+  text-align: center;
 }
 
 h3 {
@@ -506,11 +507,13 @@ ul li a {
   font-weight: bold;
   box-shadow: 4px 4px 6px #aaa;
   cursor: pointer;
+  width: 250px;
 }
 .btn__about button:hover {
   background-color: #ae80e5;
   background-blend-mode: lighten;
   box-shadow: 4px 4px 6px #000;
+  width: 250px;
 }
 
 .howto__button {
@@ -660,6 +663,7 @@ ul li a {
   font-weight: bold;
   box-shadow: 4px 4px 6px #aaa;
   cursor: pointer;
+  width: 250px;
   margin: 30px 0;
   padding: 20px;
   width: 50%;
